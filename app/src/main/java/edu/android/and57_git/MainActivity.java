@@ -24,4 +24,7 @@ public class MainActivity extends AppCompatActivity {
         // developer aaa
     }
 
+    public void testBBB() {
+        // 개발자 bbb
+    }
 }
